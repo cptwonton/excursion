@@ -2,3 +2,33 @@ body {
   text-align:center;
   background-color:Black;
 }
+
+.big_white_bold_1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+}
+
+.big_white_bold_2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.caption {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
+  color: Gray;
+}
